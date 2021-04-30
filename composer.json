@@ -1,5 +1,5 @@
 {
-    "name": "yo-uganda/yopaymentsphp",
+    "name": "yo-uganda-muokid3/yopaymentsphp",
     "type": "library",
     "description": "A PHP Library to interact with the Yo! Payments API.",
     "keywords": ["YoPayments", "mobile money", "composer", "package"], 
